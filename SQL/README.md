@@ -1,1 +1,1 @@
-# Hackerrank: DBMS 
+# Hackerrank: SQL

@@ -1,1 +1,0 @@
-# Hackerrank: Relational Algebra

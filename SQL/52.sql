@@ -1,4 +1,5 @@
 -- https://www.hackerrank.com/challenges/challenges/problem
+-- MS SQL
 
 WITH SUB(ID, NAME, COUNTER) AS 
 (SELECT C.HACKER_ID, H.NAME, COUNT(C.HACKER_ID) FROM CHALLENGES C INNER JOIN HACKERS H 

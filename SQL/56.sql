@@ -1,4 +1,5 @@
 -- https://www.hackerrank.com/challenges/print-prime-numbers/problem
+-- MS SQL
 
 DECLARE @I INT=2;
 DECLARE @P INT = 0;

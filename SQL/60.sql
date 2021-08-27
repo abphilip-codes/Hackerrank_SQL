@@ -1,4 +1,5 @@
 -- https://www.hackerrank.com/challenges/interviews/problem
+-- MS SQL
 
 WITH 
     A AS (SELECT CHALLENGE_ID, 

@@ -1,7 +1,6 @@
 -- https://www.hackerrank.com/challenges/print-prime-numbers/problem
 -- MS SQL
 
-/*
 DECLARE @I INT=2;
 DECLARE @P INT = 0;
 DECLARE @ANS NVARCHAR(1000) = ''; 
@@ -26,4 +25,3 @@ SET @I = @I + 1;
 END
 SET @ANS = SUBSTRING(@ANS, 1, LEN(@ANS) - 1)
 SELECT @ANS
-*/
